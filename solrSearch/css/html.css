@@ -1,0 +1,12 @@
+BODY {color:#003366;}
+A {text-decoration:underline; color: #1E1E99}
+A:link {text-decoration:underline; color: #1E1E99}
+A:visited {text-decoration:underline; color: #000000}
+
+LI {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; font-weight: normal; color: #003366; font-variant: normal; text-transform: none;}
+OL {list-style-position:outside; list-style-type: decimal;}
+UL {list-style-position:outside;list-style-image:url(/common/img/b01.gif); list-style-type:none;}
+P {font-family: Arial, Helvetica, sans-serif;font-size:10pt;font-style:normal;font-weight:normal;color:#003366;line-height:normal;font-variant:normal;text-transform:none;text-decoration:none} 
+INPUT {font-family: Helvetica, sans-serif; font-size: 10pt; font-style: normal; font-weight: normal; font-variant: normal; color: #000000;}
+SELECT {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; font-weight: normal; font-variant: normal; color: #000000;}
+OPTION {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; font-weight: normal; font-variant: normal; color: #000000;}
