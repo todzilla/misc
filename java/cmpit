@@ -1,0 +1,2 @@
+javac -extdirs /opt/jakarta/tomcat/common/lib $1
+
