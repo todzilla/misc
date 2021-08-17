@@ -1,2 +1,0 @@
-java -D /opt/jakarta/tomcat/common/lib $1
-
