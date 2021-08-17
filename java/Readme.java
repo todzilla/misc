@@ -1,5 +1,5 @@
-I put these examples together to demonstrate I could code different
+I put these examples together to demonstrate how to code different
 types of java classes.
 
-The cmpit command will buils the class
-the runit command will run the class
+The cmpit command will build the class
+The runit command will run the class
