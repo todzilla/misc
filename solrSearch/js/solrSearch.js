@@ -22,7 +22,7 @@ var gckeywordsArray = new Array();
 var pageSize=1000000;
 var queryString = "";
 var self = this;
-  var strURL = "http://home-p.acme.com/cgi-bin/solrProxyp.cgi";
+  var strURL = "http://http_server/cgi-bin/solrProxyp.cgi";
 //alert(strURL);
 var xmlHttpReq = false;
 
