@@ -10,7 +10,7 @@
 use LWP::UserAgent;
 
 my($ua) = LWP::UserAgent->new;
-my($URL) = URI->new('http://cbdl0lpap03:8080/solrA/select');
+my($URL) = URI->new('http://server:8080/solrA/select');
 
 # Parse input (if any) from form and store it in the %form hash.
 parseForm();
